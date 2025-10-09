@@ -16,7 +16,7 @@ struct AFButton: View {
             .font(.title2)
             .fontWeight(.semibold)
             .frame(width: 280, height: 50)
-            .background(.red)
+            .background(.blue)
             .foregroundStyle(.white)
             .cornerRadius(10)
     }
